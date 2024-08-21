@@ -10,4 +10,4 @@ Grupo SysteM32
 
 Tec Programacion.
 
-añadimos modificacion clase 2 200/08
+añadimos modificacion clase 2 20/08
